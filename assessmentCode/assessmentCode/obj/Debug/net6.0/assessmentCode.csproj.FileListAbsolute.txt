@@ -1,0 +1,15 @@
+/Users/jacobbramwell/Documents/GitHub/assessment/assessmentCode/assessmentCode/obj/Debug/net6.0/assessmentCode.csproj.AssemblyReference.cache
+/Users/jacobbramwell/Documents/GitHub/assessment/assessmentCode/assessmentCode/obj/Debug/net6.0/assessmentCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobbramwell/Documents/GitHub/assessment/assessmentCode/assessmentCode/obj/Debug/net6.0/assessmentCode.AssemblyInfoInputs.cache
+/Users/jacobbramwell/Documents/GitHub/assessment/assessmentCode/assessmentCode/obj/Debug/net6.0/assessmentCode.AssemblyInfo.cs
+/Users/jacobbramwell/Documents/GitHub/assessment/assessmentCode/assessmentCode/obj/Debug/net6.0/assessmentCode.csproj.CoreCompileInputs.cache
+/Users/jacobbramwell/Documents/GitHub/assessment/assessmentCode/assessmentCode/bin/Debug/net6.0/assessmentCode
+/Users/jacobbramwell/Documents/GitHub/assessment/assessmentCode/assessmentCode/bin/Debug/net6.0/assessmentCode.deps.json
+/Users/jacobbramwell/Documents/GitHub/assessment/assessmentCode/assessmentCode/bin/Debug/net6.0/assessmentCode.runtimeconfig.json
+/Users/jacobbramwell/Documents/GitHub/assessment/assessmentCode/assessmentCode/bin/Debug/net6.0/assessmentCode.dll
+/Users/jacobbramwell/Documents/GitHub/assessment/assessmentCode/assessmentCode/bin/Debug/net6.0/assessmentCode.pdb
+/Users/jacobbramwell/Documents/GitHub/assessment/assessmentCode/assessmentCode/obj/Debug/net6.0/assessmentCode.dll
+/Users/jacobbramwell/Documents/GitHub/assessment/assessmentCode/assessmentCode/obj/Debug/net6.0/refint/assessmentCode.dll
+/Users/jacobbramwell/Documents/GitHub/assessment/assessmentCode/assessmentCode/obj/Debug/net6.0/assessmentCode.pdb
+/Users/jacobbramwell/Documents/GitHub/assessment/assessmentCode/assessmentCode/obj/Debug/net6.0/assessmentCode.genruntimeconfig.cache
+/Users/jacobbramwell/Documents/GitHub/assessment/assessmentCode/assessmentCode/obj/Debug/net6.0/ref/assessmentCode.dll
